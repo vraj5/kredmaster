@@ -862,7 +862,7 @@ img {
 
 /* Packages */
 .packages{
-    background-image: url(../images/package.png);
+    background-image: url(package.png);
     background-color: var(--black);
     padding-top: 145px;
     padding-bottom: 145px;
