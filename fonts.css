@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-Black.woff2') format('woff2'),
+        url('VastagoGrotesk-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-Bold.woff2') format('woff2'),
+        url('VastagoGrotesk-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk Extra';
+    src: url('VastagoGrotesk-ExtraLight.woff2') format('woff2'),
+        url('VastagoGrotesk-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-Heavy.woff2') format('woff2'),
+        url('VastagoGrotesk-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-Light.woff2') format('woff2'),
+        url('VastagoGrotesk-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-Medium.woff2') format('woff2'),
+        url('VastagoGrotesk-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-Regular.woff2') format('woff2'),
+        url('VastagoGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-SemiBold.woff2') format('woff2'),
+        url('VastagoGrotesk-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vastago Grotesk';
+    src: url('VastagoGrotesk-Thin.woff2') format('woff2'),
+        url('VastagoGrotesk-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
